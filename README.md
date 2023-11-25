@@ -7,3 +7,5 @@ shared contextual conception reference access bridge to local b4-HUB
 
 / part 2 - added index file placeholder -mic
 
+/ part 3 - fixed an error associated with the repo
+
