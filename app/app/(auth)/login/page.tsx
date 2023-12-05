@@ -1,6 +1,8 @@
 import Image from "next/image";
 import LoginButton from "./login-button";
 import { Suspense } from "react";
+import { PrismaClient } from '@prisma/client'
+const prisma = new PrismaClient()
 
 export default function LoginPage() {
   return (
