@@ -14,7 +14,7 @@ export default function HomePage() {
       <h1 className="text-white">
         Edit this page on{" "}
         <InlineSnippet className="ml-2 bg-blue-900 text-blue-100">
-          app/home/page.tsx
+          mic is landed, and outside of the control
         </InlineSnippet>
       </h1>
     </div>
